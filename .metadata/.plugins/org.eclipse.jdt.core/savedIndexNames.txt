@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+G:\ICS3U\ArrayStuff\.metadata\.plugins\org.eclipse.jdt.core
+833386100.index
+14682029.index
+1455593261.index
+1518219961.index
+3523662158.index
+728296283.index
+3460784811.index
